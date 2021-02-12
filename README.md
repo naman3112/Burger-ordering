@@ -1,3 +1,9 @@
+#Description 
+It is an app used for ordering cutomised burger built by using ReactJs, Css, Javasript and other reactjs features.
+
+#Screenshots of the project
+![alt text](http://url/to/img.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
