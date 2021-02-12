@@ -2,7 +2,7 @@
 It is an app used for ordering cutomised burger built by using ReactJs, Css, Javasript and other reactjs features.
 
 ## Screenshots of the project
-![alt text](http://url/to/img.png)
+![Burger Ordering App](Screenshot.png)
 
 # Getting Started with Create React App
 
